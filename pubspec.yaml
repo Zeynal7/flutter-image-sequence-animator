@@ -5,16 +5,16 @@ author          : Ali Yigit Bireroglu <aliyigitbireroglu@gmail.com>
 repository      : https://github.com/aliyigitbireroglu/flutter-image-sequence-animator
 homepage        : https://www.cosmossoftware.coffee
 
-environment:
+environment     :
   sdk: ">=2.1.0 <3.0.0"
 
-dependencies:
+dependencies    :
   flutter:
     sdk: flutter
-  cached_network_image ^3.0.0-nullsafety
+  cached_network_image: ^3.0.0-nullsafety
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-flutter:
+flutter         :
